@@ -5,7 +5,7 @@ This Repo contains the solution files to the Deploy Sentiment Analysis Project o
 
 The project covers performing sentiment anaysis on movie reviews. RNN model with pytorch was trained for the sentiment analysis on AWS Sagemaker. The final model, was deployed with a we app on a EC2 Instance with AWS lambda.
 
-<img src="https://github.com/abyanjan/Deploy-Sentiment-Analysis-Project/blob/master/sentiment_analysis_web_app.PNG" width='600' height='300'>
+<img src="https://github.com/abyanjan/Udacity-ML-Engineer-Nanodegree/blob/master/Deploy-Sentiment-Analysis-Project/sentiment_analysis_web_app.PNG" width='600' height='300'>
 
 **Topics Covered:**
 - Sentiment Analysis, Text classification
